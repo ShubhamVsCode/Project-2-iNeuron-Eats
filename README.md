@@ -4,7 +4,7 @@ By Shubham
 
 Here's the Live Deployed Website ![Project 2](https://img.shields.io/badge/Project-2-brightgreen)
 
-[Link to the Project 1]("https://iNeuronEats.netlify.app/")
+[Link to the Project 2](https://iNeuronEats.netlify.app/)
 https://iNeuronEats.netlify.app/
 
 ![Completed Website](./readmeImages/completedScreenshot.jpg)
